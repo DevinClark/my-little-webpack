@@ -15,6 +15,7 @@
     "webpack": "^3.0.0"
   },
   "dependencies": {
+    "cat-names": "^1.0.2",
     "query-string": "^4.3.4"
   }
 }
