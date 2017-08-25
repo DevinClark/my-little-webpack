@@ -9,7 +9,7 @@
     "build-min": "webpack -p"
   },
   "keywords": [],
-  "author": "Devin Clark <dclark@wdtinc.com> (http://devin-clark.com/)",
+  "author": "Devin Clark <npm@devinenergy.com> (http://devin-clark.com/)",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^3.0.0"
